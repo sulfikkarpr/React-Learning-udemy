@@ -12,6 +12,10 @@ Description: This project covers the fundamentals of React, including creating c
 
 Description: This project implements the classic Tic Tac Toe game using React. It covers concepts such as component composition, state management, and conditional rendering.
 
+### 3. Investment Calculator
+
+Description: This project implements a simple investment calculator using React. It covers concepts such as component composition, state management, and conditional rendering to help users calculate their potential returns on investments.
+
 ## How to Run
 
 Follow these steps to run each project locally:
@@ -32,8 +36,6 @@ Follow these steps to run each project locally:
 
    npm start
 
-
 ## Contributing
 
 If you find any issues with the projects or want to contribute enhancements, feel free to open an issue or submit a pull request.
-
