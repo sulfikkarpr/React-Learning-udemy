@@ -16,6 +16,14 @@ Description: This project implements the classic Tic Tac Toe game using React. I
 
 Description: This project implements a simple investment calculator using React. It covers concepts such as component composition, state management, and conditional rendering to help users calculate their potential returns on investments.
 
+### 4. React Style App
+
+Description: The React Style App is a project exemplifying the integration of vanilla CSS within a React application. It demonstrates the seamless application of styles to React components, highlighting the versatility and flexibility of styling options available in React development. With a focus on dynamic styling techniques, this project offers users an interactive experience while exploring the functionalities of the React framework.
+
+### 5.React Style App with Tailwind CSS
+
+Description: The React Style App with Tailwind CSS showcases the utilization of Tailwind CSS within a React application environment. It exemplifies the seamless integration of Tailwind's utility-first approach to styling with React components, providing users with a visually appealing and responsive interface. This project emphasizes the power of Tailwind CSS in simplifying the styling process while maintaining flexibility and scalability in React development.
+
 ## How to Run
 
 Follow these steps to run each project locally:
