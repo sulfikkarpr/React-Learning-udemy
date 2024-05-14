@@ -24,6 +24,11 @@ Description: The React Style App is a project exemplifying the integration of va
 
 Description: The React Style App with Tailwind CSS showcases the utilization of Tailwind CSS within a React application environment. It exemplifies the seamless integration of Tailwind's utility-first approach to styling with React components, providing users with a visually appealing and responsive interface. This project emphasizes the power of Tailwind CSS in simplifying the styling process while maintaining flexibility and scalability in React development.
 
+### 6.Refs and Portals
+
+Description: The Refs and Portals project is designed to help users understand the concepts of refs and portals in React through a simple application. It provides a hands-on experience in utilizing refs to interact with DOM elements directly and using portals to render components outside of the parent component hierarchy. By exploring this project, users can grasp the practical applications of refs and portals in building more sophisticated and flexible React applications.
+
+
 ## How to Run
 
 Follow these steps to run each project locally:
