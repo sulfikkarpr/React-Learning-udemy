@@ -28,6 +28,9 @@ Description: The React Style App with Tailwind CSS showcases the utilization of 
 
 Description: The Refs and Portals project is designed to help users understand the concepts of refs and portals in React through a simple application. It provides a hands-on experience in utilizing refs to interact with DOM elements directly and using portals to render components outside of the parent component hierarchy. By exploring this project, users can grasp the practical applications of refs and portals in building more sophisticated and flexible React applications.
 
+### 7. Refs-Project
+
+Description: The Refs-Project is a React-based application focused on project and task management. Through this platform, users gain hands-on experience with essential React concepts like refs, portals, props, and states. By actively organizing projects and tasks, users deepen their understanding of these concepts while building efficient management solutions.
 
 ## How to Run
 
