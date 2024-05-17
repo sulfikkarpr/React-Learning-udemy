@@ -32,9 +32,13 @@ Description: The Refs and Portals project is designed to help users understand t
 
 Description: The Refs-Project is a React-based application focused on project and task management. Through this platform, users gain hands-on experience with essential React concepts like refs, portals, props, and states. By actively organizing projects and tasks, users deepen their understanding of these concepts while building efficient management solutions.
 
-### 8 .React-shopping-cart
+### 8. React-shopping-cart
 
 Description: Project Bane is a React-based application centered around a simple shopping cart. This project offers a hands-on experience with React's Context API and useReducer hook. Users engage in building a functional shopping cart, gaining proficiency in managing global state and dispatching actions efficiently. By implementing features like adding items to the cart, adjusting quantities, and calculating totals, users deepen their understanding of state management in React.
+
+### 9.React Effects Project
+
+Description: This is a basic project that covers the fundamental concepts of managing side effects in React components using the useEffect and useCallback hooks. Participants will work through simple examples to understand when side effects occur and how to handle them properly within React's component lifecycle. The project aims to provide a solid foundation for working with side effects in React applications.
 
 ## How to Run
 
